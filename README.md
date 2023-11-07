@@ -1,5 +1,5 @@
 # ub-webpagedemo-challenge
-This proect was centred around creating a portfoloio pae to illustate the avrious projects I will  be working on in the coming weeks. I will be able to showcase my skills and talents to employers, making the journey into securing a developer role easier. 
+This project was centred around creating a portfolio to illustate the various projects I will  be working on in the coming weeks. I will be able to showcase my skills and talents to employers, making the journey into securing a developer role easier. 
 
 With this project I will be  able to incorporate a lot of the concepts and skills I have learned so far on the course which include flexbox, media queries, and CSS variables.
 
